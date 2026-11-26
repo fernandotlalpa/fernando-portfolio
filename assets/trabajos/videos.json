@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Crear una sucursal",
+    "src": "assets/trabajos/tutorial-00.mp4",
+    "poster": "assets/trabajos/tutorial-00.jpg",
+    "duration": "00:00:51.57",
+    "brand": "Linnegocios · Tutorial web"
+  },
+  {
+    "title": "Carga masiva de productos desde Excel",
+    "src": "assets/trabajos/tutorial-01.mp4",
+    "poster": "assets/trabajos/tutorial-01.jpg",
+    "duration": "00:04:14.54",
+    "brand": "Linnegocios · Tutorial web"
+  },
+  {
+    "title": "Corte de caja",
+    "src": "assets/trabajos/tutorial-02.mp4",
+    "poster": "assets/trabajos/tutorial-02.jpg",
+    "duration": "00:01:14.14",
+    "brand": "Linnegocios · Tutorial web"
+  },
+  {
+    "title": "Configurar permisos de cajeros",
+    "src": "assets/trabajos/tutorial-03.mp4",
+    "poster": "assets/trabajos/tutorial-03.jpg",
+    "duration": "00:00:53.80",
+    "brand": "Linnegocios · Tutorial web"
+  },
+  {
+    "title": "Planear una compra",
+    "src": "assets/trabajos/tutorial-04.mp4",
+    "poster": "assets/trabajos/tutorial-04.jpg",
+    "duration": "00:01:04.39",
+    "brand": "Linnegocios · Tutorial web"
+  },
+  {
+    "title": "Editar el precio de compra",
+    "src": "assets/trabajos/tutorial-05.mp4",
+    "poster": "assets/trabajos/tutorial-05.jpg",
+    "duration": "00:03:11.70",
+    "brand": "Linnegocios · Tutorial web"
+  },
+  {
+    "title": "Registrar servicios",
+    "src": "assets/trabajos/tutorial-06.mp4",
+    "poster": "assets/trabajos/tutorial-06.jpg",
+    "duration": "00:01:07.15",
+    "brand": "Linnegocios · Tutorial web"
+  },
+  {
+    "title": "Traspaso de productos",
+    "src": "assets/trabajos/tutorial-07.mp4",
+    "poster": "assets/trabajos/tutorial-07.jpg",
+    "duration": "00:02:18.58",
+    "brand": "Linnegocios · Tutorial web"
+  },
+  {
+    "title": "Crear monederos",
+    "src": "assets/trabajos/tutorial-08.mp4",
+    "poster": "assets/trabajos/tutorial-08.jpg",
+    "duration": "00:02:26.22",
+    "brand": "Linnegocios · Tutorial web"
+  },
+  {
+    "title": "Actualizar existencias",
+    "src": "assets/trabajos/tutorial-09.mp4",
+    "poster": "assets/trabajos/tutorial-09.jpg",
+    "duration": "00:01:39.54",
+    "brand": "Linnegocios · Tutorial web"
+  },
+  {
+    "title": "Registrar productos desde el formulario",
+    "src": "assets/trabajos/tutorial-10.mp4",
+    "poster": "assets/trabajos/tutorial-10.jpg",
+    "duration": "00:05:14.31",
+    "brand": "Linnegocios · Tutorial web"
+  }
+]
